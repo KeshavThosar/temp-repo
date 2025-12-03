@@ -1,2 +1,4 @@
 This is the initial idea
 This is the updated idea
+
+This is something that I wanted to change but I realised that I am in master branch and cannot do the changes here unless validated.
